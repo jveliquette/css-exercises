@@ -1,0 +1,22 @@
+* {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.sm-odd {
+    background-color: rgb(249, 168, 180);
+}
+
+.lg-odd {
+    font-size: 24px;
+}
+
+#num-2 {
+    color: rgb(4, 4, 247);
+    font-size: 36px;
+}
+
+#num-4 {
+    background-color: rgb(162, 246, 162);
+    font-size: 24px;
+    font-weight: bold;
+}
